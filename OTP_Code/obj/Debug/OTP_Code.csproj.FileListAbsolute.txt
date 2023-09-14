@@ -1,0 +1,10 @@
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\bin\Debug\OTP_Code.exe.config
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\bin\Debug\OTP_Code.exe
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\bin\Debug\OTP_Code.pdb
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\obj\Debug\OTP_Code.csproj.AssemblyReference.cache
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\obj\Debug\OTP_Code.csproj.SuggestedBindingRedirects.cache
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\obj\Debug\OTP_Code.csproj.CoreCompileInputs.cache
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\obj\Debug\OTP_Code.exe
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\obj\Debug\OTP_Code.pdb
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\bin\Debug\Otp.NET.dll
+D:\桓基科技\otherCode\OTP_Code\OTP_Code\obj\Debug\OTP_Code.csproj.CopyComplete
